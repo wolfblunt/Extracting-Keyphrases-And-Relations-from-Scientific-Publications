@@ -39,3 +39,4 @@
 ## Links to the python notbooks
 1. Pretrained Notebooks: https://drive.google.com/drive/folders/1VPHrvSYcWnYpybpaWxY69lkUhii62Xyw?usp=sharing
 2. BiLSTM Notebooks    : https://drive.google.com/drive/folders/1GygZWJMXW-sI1wyNIjFUE1G4VjaiWQde?usp=sharing
+3. Project Github Link : https://github.com/wolfblunt/Extracting-Keyphrases-And-Relations-from-Scientific-Publications
